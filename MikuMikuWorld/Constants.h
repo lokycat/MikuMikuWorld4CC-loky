@@ -13,7 +13,7 @@ namespace MikuMikuWorld
 	constexpr int MIN_TIME_SIGNATURE				= 1;
 	constexpr int MAX_TIME_SIGNATURE_NUMERATOR		= 32;
 	constexpr int MAX_TIME_SIGNATURE_DENOMINATOR	= 64;
-	constexpr float MIN_BPM							= 10;
+	constexpr float MIN_BPM							= 1;
 	constexpr float MAX_BPM							= 10000;
 
 	constexpr const char* NOTES_TEX				= "notes1";
